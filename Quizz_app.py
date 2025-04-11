@@ -41,3 +41,4 @@ print("\n🎉 Quiz Finished!",user_name)
 print(f"Your Score: {score} out of {len(quiz)}")
 percentage = (score / len(quiz)) * 100
 print(f"Percentage: {percentage:.2f}%")
+print("hello")
