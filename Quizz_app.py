@@ -1,6 +1,6 @@
 # # Quiz app
 user_name = input("Enter your name : ").strip().title()
-quiz = [ 
+quiz = [      
         {
             "question" :"Who is the winner of IPL 2018 : ",
             "options"  : ["A.MI","B.CSK","C.PBSK","D.HYD"],
